@@ -17,7 +17,7 @@ The course is split up into two individual courses: Java Programming I and Java 
 
 ## About this Github Repo
 
-I Wanted a way to save the exercises while also making it public for others to see while also looking back and improve upon in the future. I find when one becomes more experienced they can look back at their beginning coding journey and laugh at some of their mistakes but also hopefully able to optimze it.
+I wanted a way to save the exercises and making it public for others to see. While also being able to look back and improve upon in the future. I find when one becomes more experienced they can look back at their beginning coding journey and laugh at some of their mistakes but also hopefully able to optimze it.
 
 # F.A.Q
 
