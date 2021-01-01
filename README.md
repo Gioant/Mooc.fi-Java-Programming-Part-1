@@ -19,6 +19,8 @@ The course is split up into two individual courses: Java Programming I and Java 
 
 I wanted a way to save the exercises and making it public for others to see. While also being able to look back and improve upon in the future. I find when one becomes more experienced they can look back at their beginning coding journey and laugh at some of their mistakes but also hopefully able to optimze it.
 
+Each Exercised folder should have a picture in the readme file explaining the exercise that needs to be solved.
+
 # F.A.Q
 
 ## The answers appear different and do not work from what you have, what gives?
@@ -33,3 +35,6 @@ All the assigned exercises come with the suggested answers you are shown after c
 
 However, you must conform to their specifications of their answer in order to pass the 'test' to successfully complete the exercises.
 
+## Where can I see your solution to the exercises?
+
+Go to any Exercices folder --> /src folder --> /main folder ---> /java . here you will see my version of the code to solve the exercise.
