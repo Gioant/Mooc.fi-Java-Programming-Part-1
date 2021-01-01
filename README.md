@@ -31,7 +31,7 @@ I'll try my best to update it.
 
 ## Where do the answers come from?
 
-All the assigned exercises come with the suggested answers you are shown after completing the assignment. 
+All the exercises come with the suggested answers you are shown after completing the assignment. Also, you are given a sample template to work with from the specificed exercises.
 
 However, you must conform to their specifications of their answer in order to pass the 'test' to successfully complete the exercises.
 
