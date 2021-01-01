@@ -1,1 +1,1 @@
-# Mooc.fi-Java-Programming-Part-1
+# Mooc.fi Java Programming Part 1
