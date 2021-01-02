@@ -19,7 +19,7 @@ The course is split up into two individual courses: Java Programming I and Java 
 
 I wanted a way to save the exercises and making it public for others to see. While also being able to look back and improve upon in the future. I find when one becomes more experienced they can look back at their beginning coding journey and laugh at some of their mistakes but also hopefully able to optimze it.
 
-Each Exercised folder should have a picture in the readme file explaining the exercise that needs to be solved.
+In each exercised folder should have a picture in the readme file which shows the task you need to create in order to solve the exercise.
 
 # F.A.Q
 
