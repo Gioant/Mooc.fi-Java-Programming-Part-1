@@ -5,5 +5,6 @@ public class AdaLovelace {
         // Write your program here
       
         System.out.println("Ada Lovelace");
+        // Output the following text: "Ada Lovelace"
     }
 }
