@@ -31,9 +31,10 @@ I'll try my best to update it.
 
 ## Where do the answers come from?
 
-All the exercises come with the suggested answers you are shown after completing the assignment. Also, you are given a sample template to work with from the specificed exercises.
+All the exercises come with the suggested answers you are shown after completing the assignment. Also, For each exercise you are given a template to work with.
 
 However, you must conform to their specifications of their answer in order to pass the 'test' to successfully complete the exercises.
+
 
 ## Where can I see your solution to the exercises?
 
