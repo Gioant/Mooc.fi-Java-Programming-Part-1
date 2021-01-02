@@ -7,6 +7,7 @@ public class DifferentTypesOfInput {
         Scanner scan = new Scanner(System.in);
 
         // Write your program here
+        
         System.out.println("Give a string:");
         String text = (scan.nextLine());
         System.out.println("Give an integer:");
