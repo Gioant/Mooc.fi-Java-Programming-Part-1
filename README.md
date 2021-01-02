@@ -7,7 +7,7 @@ MOOC.fi Java Programming is a course offered for free by the University of Helsi
 Even if you are an experienced programmer, I find the course worth taking if your Java skills need improvement or just looking for some practice.
 Each lesson has its own exercises that you will need to answer along with some quizzes to help you retain key information that you have read.
 
-The University of Helsinki launched their 2020 version of Java Programming Sometime this year, It is the updated from their previously popular 2013 version.
+The University of Helsinki launched their 2020 version of Java Programming Sometime this year, It is the updated version from their previously popular 2013 version.
 
 You can find the course at: https://java-programming.mooc.fi/
 
