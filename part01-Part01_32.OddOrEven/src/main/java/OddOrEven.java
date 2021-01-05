@@ -25,9 +25,7 @@ public class OddOrEven {
         
         if (number % 2 == 0) {
             System.out.println("Number " + number + " is even.");
-        } else if (number % 2 < 0) {
-            System.out.println("Number " + number + " is odd.");
-        } else if (number % 2 != 0) {
+        } else {
             System.out.println("Number " + number + " is odd.");
         }
     }
